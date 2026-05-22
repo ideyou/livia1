@@ -6,8 +6,8 @@
   "start_url": "./index.html",
   "display": "standalone",
   "orientation": "portrait",
-  "theme_color": "#ff69b4",
-  "background_color": "#ffb3d9",
+  "theme_color": "#ffffff",
+  "background_color": "#fc7ba1",
   "icons": [
     {
       "src": "livia.avif",
