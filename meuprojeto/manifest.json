@@ -1,0 +1,21 @@
+{
+  "id": "LIVIA_DORAMAS",
+  "name": "Livia Doramas",
+  "short_name": "Moonlight K-World",
+  "scope": "./",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#ff69b4",
+  "background_color": "#ffb3d9",
+  "icons": [
+    {
+      "src": "livia.avif",
+      "sizes": "192x192",
+      "type": "image/avif"
+    }
+  ],
+  "app_name": "K-Drama Universe",
+  "description": "Meu universo de doramas favoritos ✨",
+  "lang": "pt-BR"
+}
