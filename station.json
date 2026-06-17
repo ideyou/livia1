@@ -1,0 +1,12 @@
+{
+  "color": "#000",
+  "background_color": "#FA7A9F",
+  "icons": [
+    {
+      "src": "profile.png",
+      "sizes": "any",
+      "type": "image/png"
+    }
+  ],
+  "name": "Lívia Silvana"
+}

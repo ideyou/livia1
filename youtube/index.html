@@ -57,14 +57,41 @@ teste
             <button>Cadastrar</button>
         </form>
 
-<script>
+        <hr>
 
-    function mensagem(){
-        alert("Você clicou no botão!");
-    }
+        <!-- LISTAS -->
+        <h1>Lista de Tarefas</h1>
+        
+        <input type="text"
+        id="tarefa"
+        placeholder="Digite uma tarefa">
 
-</script>
+        <button onclick="adicionar()">
+            Adicionar
+        </button>
 
-</body>
+        <ul id="lista"></ul>
 
-</html>
+        <!--JAVASCRIPT-->
+        <script>
+
+            function adicionar() {
+                const tarefaInput = document.getElementById('tarefa');
+                const tarefa = tarefaInput.value;
+            }
+
+            </script>
+
+       </body>
+
+       </html>
+
+    
+    
+
+        
+
+
+
+
+
